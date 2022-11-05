@@ -1,5 +1,5 @@
-import {FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import {faGithub} from "@fortawesome/free-brands-svg-icons"
+import {FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {faGithub} from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () =>{
     const icon =<FontAwesomeIcon icon ={faGithub}/> ;
